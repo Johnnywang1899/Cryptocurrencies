@@ -10,3 +10,6 @@ The project helps a investment bank manager for an analysis to create a new cryp
 
 # Results
 - 2D clustering
+![clustering_1.PNG](image/clustering_1.png)  
+- 3D clustering
+![clustering.PNG](image/clustering_1.png)  
